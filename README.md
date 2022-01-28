@@ -8,8 +8,8 @@ Formula 1
 General Problem Solving
 
 - 🌱 I’m currently learning ...
-Swift/n
-C#/n
+Swift\n
+C#\n
 Java
 
 - 💞️ I’m looking to collaborate on ...
